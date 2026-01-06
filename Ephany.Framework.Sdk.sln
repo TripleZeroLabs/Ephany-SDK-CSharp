@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ephany.Framework.Sdk", "Ephany.Framework.Sdk\Ephany.Framework.Sdk.csproj", "{6A34F431-CC24-493B-BE9B-7C9BBE7CF6F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ephany.Framework.Sdk.Console", "Ephany.Framework.Sdk.Console\Ephany.Framework.Sdk.Console.csproj", "{7C9C79E1-80FF-41E7-BF5A-008C7F3C3576}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A34F431-CC24-493B-BE9B-7C9BBE7CF6F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A34F431-CC24-493B-BE9B-7C9BBE7CF6F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A34F431-CC24-493B-BE9B-7C9BBE7CF6F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A34F431-CC24-493B-BE9B-7C9BBE7CF6F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C9C79E1-80FF-41E7-BF5A-008C7F3C3576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C9C79E1-80FF-41E7-BF5A-008C7F3C3576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C9C79E1-80FF-41E7-BF5A-008C7F3C3576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C9C79E1-80FF-41E7-BF5A-008C7F3C3576}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DBB30F8-5461-4E29-AF8A-E63B52D4AE02}
+	EndGlobalSection
+EndGlobal

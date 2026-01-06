@@ -1,0 +1,38 @@
+## Visual Studio Defaults
+.vs/
+[Oo]bj/
+[Bb]in/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.pdb
+*.cache
+*.force
+
+## Revit Specific
+*.addin
+*_backup/
+*.rfa
+*.rvt
+*.rte
+*.slog
+*.jounal.*
+
+## Build Results & Temporary Files
+*.log
+*.tmp
+*.dll
+*.exe
+*.xml
+# Exception: Keep xml documentation if you intend to distribute it, but usually generated.
+# If you have 3rd party DLLs you commit, comment out *.dll above or use "!" to un-ignore specific folders.
+
+## Sensitive Data
+.env
+*.config.local
+secrets.json
+
+## Mac / OS Specific (just in case)
+.DS_Store
+Thumbs.db

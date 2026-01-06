@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "Ephany.Framework.Sdk.Console": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "EPHANY_API_KEY": "HbRn-31GvwbDs0zwr2TJGsLI8DjonfHTl7xw-hSjO7E",
+        "EPHANY_BASE_URL": "https://framework.ephany.io/api/",
+        "EPHANY_BASE_URL_LOCAL": "http://127.0.0.1:8000/api/",
+        "EPHANY_API_KEY_LOCAL": "srMzJWKJ-tvmHcE7llNIIe4-Kcak30cgNqKgtLhsKeY"
+      }
+    }
+  }
+}
